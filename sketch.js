@@ -19,6 +19,7 @@ function setup() {
 
 function draw() {
   background(bgImg);
+  //test comment
 }
 
 function windowResized() {
